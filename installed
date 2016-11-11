@@ -3,7 +3,9 @@ coreutils
 ctags
 curl
 diff-so-fancy
+doxygen
 e2fsprogs
+fish
 fzf
 gcc
 git
@@ -17,6 +19,7 @@ netcat
 homebrew/dupes/openssh
 packer
 parallel
+perl
 pigz
 pixz
 pstree
